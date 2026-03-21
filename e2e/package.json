@@ -1,0 +1,19 @@
+{
+    "name": "@slcloud/e2e",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "test": "playwright test --project=chromium",
+        "test:login": "playwright test --project=setup --headed",
+        "test:headed": "playwright test --project=chromium --headed",
+        "test:ui": "playwright test --project=chromium --ui",
+        "test:smoke": "playwright test --project=chromium --grep @smoke",
+        "test:tc": "playwright test --project=chromium --grep",
+        "test:codegen": "npx playwright codegen --load-storage=.auth/user.json https://testv2.shorelineiot.com/testv2_release_2_7/app/custom-dashboard"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.58.2",
+        "dotenv": "^16.4.5",
+        "typescript": "^4.9.5"
+    }
+}

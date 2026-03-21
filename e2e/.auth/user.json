@@ -1,0 +1,497 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.695282259.1773824858",
+      "domain": ".shorelineiot.com",
+      "path": "/",
+      "expires": 1808384898.394368,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "786ca161-1ecb-4d61-886d-67fff5bd3274",
+      "domain": "testv2.auth.us-east-1.amazoncognito.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "8525348_34_34__34_",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1776416863,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "529=OdipUCnXPA5hfMf5YygqVRnR9Cq63eShQXXsoTRvtXiJAsODfv4pVLt9rTKww1rI5ISlBrgOHnwLTC4nJQbzIw1LMZAWGCB-ObJGMJ1cxXMLN6KIryWpYDPYkXk7A7z3K90tWnK89rQsSpC7ge5Dbxy-VgSRLycvV2fym8zQIv3r1MPOCtD2SXFxLXwv2wx_EMVVksEw2lcpi2sx2Ml7DhiPV75tZL2ysAJtQt76WhBe5b7vRFT-KgY-de7PK-1mg1E70Xp6hk8PwGG7YY0Wcul-o2NgXz3zDVOssIHLhJrMPptHzDuGKnJ2Pk5q5dGBGiMwYZ1dFj2a-nLZ6RGbgWWOHmlfWQZW-VJTPPdPhR_rqk-A4nMbLVLDWaYaLSSxTUHqhqzexZW-Zxo3zfMiNvw7dtFkcNIb4Aer21pG14QSb7j_x61tcwx8XH8MXLsYEVSnGlQ3n8ihcWsA5AkWy5Iw9S1TeU5LWFktmQycoohOPJdQdLJTGkIfrOew5G649frhsDiNQBWPYEvfCi8-2Gqsjulz1Egt_vzXuq6iM3rLs_EiN6Rqv-AkVbJiyxUkvUF0lpCYwYMfCmxG8-HdybfeS1WunOuy3zfDNq3poVrvu8PRKiGVdVYSYsN2T0Yux7guAr2CS-WtDKJoR6-WbQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1789636063.944466,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdHHbtWoAiouytD2E4Q92PENgACgYKAW0SARQSFQHGX2MixZiArw6vSE3foQl_Au_qeRoVAUF8yKolIeUKg_W7VkiulR4_R6ej0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.94486,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdH01CsewR3PAPw420-5MsCyQACgYKASwSARQSFQHGX2MiuTMxdAe8frpnpv2JOZb8ohoVAUF8yKqiWxPJDOSfEZcpSOCjVxRT0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.944947,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdHlruD6r8zpCySVmOTpoNzgAACgYKAaMSARQSFQHGX2MiNF_2kUEdXhxi-yVLHKCu1RoVAUF8yKrWcNqYH4D-ecrVLFqNzSCR0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945016,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AnXM8imaDoVIuVLQr",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945285,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "A4oHB-o7J0HYBlf8r",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945347,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "hZqYE5ph-uevB306/AZLRH_9X0NKH25Va1",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945404,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945515,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1808384894.945575,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:8ofUpKCO7wtKgKtgoVF1gXGPQn8d7pY4BChgw8oitUv3EzopvbqYQx4BBEZpwPKzhxKx4u9LHElKnt5GmDjfwDiTq7CYDg:EFaxsaDTxjHFlc4c",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1808384894.945671,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SMSV",
+      "value": "ADHTe-BXnn6-wxYemzlb_8NVk9dj6eplrviuIfCZA0uS_n8Urb8OfD4Q_rZQhvWNl6WDa6-1Em4w1Vw4wtYPzjH9CCiaNZJocSCm8-3HTpuKgzMwpWuYxGo",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1808384894.945738,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LSID",
+      "value": "s.IN|s.youtube:g.a0007wi4Xtc7hqXVjWt0_r3D9RVIo_4D3Ji7l33T94QVAZKB3L44wXxmzhc6IQ4uhwvw9S_37AACgYKAVISARQSFQHGX2MisZiAAKXVVbvI1bqFRFlzOxoVAUF8yKpiIv2_zSn__ycGK1mB-StZ0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1808384895.077032,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "s.IN|s.youtube:g.a0007wi4Xtc7hqXVjWt0_r3D9RVIo_4D3Ji7l33T94QVAZKB3L4403BfPR63xvDO2DLiwFNligACgYKAZoSARQSFQHGX2Mied_vWtCreMI6Q3LNErGDThoVAUF8yKocggl4xtbvhLsJFYZHdYz80076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1808384895.077285,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "s.IN|s.youtube:g.a0007wi4Xtc7hqXVjWt0_r3D9RVIo_4D3Ji7l33T94QVAZKB3L44cOiD0Pp3B4F1ym-_5CyClwACgYKASESARQSFQHGX2MiB6xiEUo0cFNGiJAbrkTughoVAUF8yKpY2-3ph-yUES4QXsNWuftO0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1808384895.077384,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ACCOUNT_CHOOSER",
+      "value": "AFx_qI4N7T1Dxb2KiRORtoE-Zl18S4CkQpUjrIiGY5tU25Dc0o6M8oExsCl5ePYRez8uJObJN_z7M37AyTJiL2tQlFRUae1F_XGqswvyEoTiAPg0BrMlHU1B0-6Y-cI6pdWxcB1EPEZpmGPpRnf0L5NXsqzZLFG5wQ",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1808384895.077476,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjUBBj1CYs4xCKEjTavR-bwu0AQ8hAXuycRqmP_Rei4L5I-lCeoQIgZ88gniDXEahENzzifOihAA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1805360895.234363,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjUBBj1CYs4xCKEjTavR-bwu0AQ8hAXuycRqmP_Rei4L5I-lCeoQIgZ88gniDXEahENzzifOihAA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1805360895.234615,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "A_CMHnd1UHADBTwz2",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.234695,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AWB8ArxEOL_fnRkKr",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.234758,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "hZqYE5ph-uevB306/AZLRH_9X0NKH25Va1",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.234812,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.234874,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.234957,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.235019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdHHbtWoAiouytD2E4Q92PENgACgYKAW0SARQSFQHGX2MixZiArw6vSE3foQl_Au_qeRoVAUF8yKolIeUKg_W7VkiulR4_R6ej0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.235077,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdH01CsewR3PAPw420-5MsCyQACgYKASwSARQSFQHGX2MiuTMxdAe8frpnpv2JOZb8ohoVAUF8yKqiWxPJDOSfEZcpSOCjVxRT0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.235143,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdHlruD6r8zpCySVmOTpoNzgAACgYKAaMSARQSFQHGX2MiNF_2kUEdXhxi-yVLHKCu1RoVAUF8yKrWcNqYH4D-ecrVLFqNzSCR0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1808384895.235216,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "A_CMHnd1UHADBTwz2",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.43165,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AWB8ArxEOL_fnRkKr",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431714,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "hZqYE5ph-uevB306/AZLRH_9X0NKH25Va1",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431732,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.43175,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "CdbPVGQJoeGX0UGV/AK_ZDjQxgToaRN8hY",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431783,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "529=AkJTWreiU5fLtI_mHrwJnxZSi6MGS-Zbk7bUUK8Hr4d-TZKN--9xDShjFxjTlVRLbA4QP_An-DMDBb08p25hz03LFn25uMFsrCedqMcKnUk4rCoWwgFSjAl1DkE49hpasPVPFMtb3lfjTeDn1y3A35mtm3T9DCXLirBzHCbq1RhcqOetVr4t3cXt-SUU1mEEvftRQ-tb2HW-LASD_Uqr5sWAZXJK",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1789636095.4318,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdHHbtWoAiouytD2E4Q92PENgACgYKAW0SARQSFQHGX2MixZiArw6vSE3foQl_Au_qeRoVAUF8yKolIeUKg_W7VkiulR4_R6ej0076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431817,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdH01CsewR3PAPw420-5MsCyQACgYKASwSARQSFQHGX2MiuTMxdAe8frpnpv2JOZb8ohoVAUF8yKqiWxPJDOSfEZcpSOCjVxRT0076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431834,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a0007wi4XpbUXcek6uRPyx-DFIPQ1TVAqcefS2iixzkzl_3JyhdHlruD6r8zpCySVmOTpoNzgAACgYKAaMSARQSFQHGX2MiNF_2kUEdXhxi-yVLHKCu1RoVAUF8yKrWcNqYH4D-ecrVLFqNzSCR0076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1808384895.431859,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzVV4vhUaf07jMaK99kOXdddZOJBxxtPB-fXQxMdvS-JfGshO6gSfU8hOuOB0Vq7DagIeQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1805360896.480207,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzUbG58_HTudg099Bo7MgUFwo5rNmzIewNR8OCMEgFXZgqLDU9C0WsZGVOx15RhYRCyA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1805360896.4805,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzWJZCbWHPItH592eld45dj6IeJ6XhWfLdYS4Bw0BlqbCJlofeV8UX_sRBCqjyVd_6i_",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1805360896.480687,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cognito",
+      "value": "\"H4sIAAAAAAAAAAH1AAr/aqtzgXcqFigZlpTYvMCMZDuvuREUryRCdfEfRXpFbw/uif1IaUomcAQnuY9S5KHL8mZ/4m3+4efWKr4boLihxRTVdjlaK3Qp9Ikz7jrMLjaGAbTpvjwTqyGU5ONbxG3WPdNseiqrZU6GNy5nW5zOnz11cHLa4KHwWbhiIzVozAMYaw+SErNN7lpxroWkmhqX79sJRU/iJoQjBg/VrLSUN66Z0P58Ahz/6nPA1KwoVslm9LX0ISBzxkEfYo00J+T3hI+HDPGhOcIoisxRxi3Cst2Nv2tpVbYUwRnF9srryZaG7PFyBZflbldEz5oL/CjE9KpE8pz4jvIq9QAAAA==.H4sIAAAAAAAAAFM45GJW9Gxu/MW47sQzCbdMqkwO6Mxomv4v3FbYMPGK+ioA2ekKBiAAAAA=.4\"",
+      "domain": ".testv2.auth.us-east-1.amazoncognito.com",
+      "path": "/",
+      "expires": 1773828497.299204,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_85Q22P11LY",
+      "value": "GS2.1.s1773824858$o1$g1$t1773824908$j10$l0$h0",
+      "domain": ".shorelineiot.com",
+      "path": "/",
+      "expires": 1808384908.233492,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://testv2.shorelineiot.com",
+      "localStorage": [
+        {
+          "name": "CognitoIdentityServiceProvider.76cleouqlscv0i55vic6gsve13.google_107174296564305794668.clockDrift",
+          "value": "0"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.76cleouqlscv0i55vic6gsve13.google_107174296564305794668.refreshToken",
+          "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.f_edODrgKjCyXkv6TrcBoaSHBPBh67jJeJJYeHTTSSIpHRIfP8zJsEtfdbYTAeY3qa1A6ekM3Biu9hHEl28TiH1cl1Hfl2UaywI7-s4Nj823LpyI1Tl1eY0ALm7I6_FOQeG2bHv7BlcZFuaM57xYi0yhicb5kqdgxfhWmiuXfEruQF_RB9YP24h11dHjktd6V_jcOkmadIK4ugPwhlRdNLNPuxCDWodCIp6fWxEw6rNgT-IgX47zaWi9kgZjJhWf8jlA2ecNXI3F8XKK41_WlS8RcMUxo3d4opLYy9rvko3SeLGc71wJ1AplaWzi5XCqa0_H59Oh8kVL4u0vsH69wg.Io54r0w0vkv3Sera.5RNMAYdKZnOcJ7N24mkXqWbF4JbYYsbb8CEJgEpwzatmzN3hpxswZX1BNAD8zs-7FQo-OsfZfQNpcD0ChJluJzIfMvtSqTnZ0GF0NR35P8xiv2NCPb9kAYdAZcTiOeQ5iQw7S5LsGuYIMIl5y5tdXN2EG8rc2bFgAcUkU5GajMGevAmgYUpxQkYhFXBvEu4nVLbnnu8JwoNzNcZ-SUKbUWQusW3PXq2TWO90fQ5RPQhjv6_B-gWN6GXPxCPdOse7_STZZavnYD6KrQc34uZdo5_-jC_rD0ohqjAlbVc_YQeRSsDIzh_aVqfrDqlmUxYfE7P1tXMFE5fMDnX9fD0wCwGA4qjL6NBS5T8WMnmvAXcXzvY0oYbske5Y1NwtmRPHCq_8lF1msBRXrvSWDC72AfPEVCwcv0BTQqE1DXw1bmVA-yDxgbI8jwRUQxZU6jFacf5_w-P6zg9VOStPcVdgEuQGfCtjCeseO5SoG2Q7m_X29xYzS-o2OxBZo2ANgbidYQ4oZtDYJzY5eU2JqbgIWqdkahWuMaUPCkueZpRuMd9piZ78zkM2h8HcKaoQV6VzAR5qYeex-d7GzEiUCb5lCg53renAUcttN8Xj1Shfx3MzS_ZqMunfguGveQXk_B9mbjuQxlXjqX1eNLEE-bTAW7rOkEQJSBu0Xg-4TbahjKJSeGCzQZsaEPLdUFysoOZ33IJHAd5vMJ0DEBAOREo8dptgcuW0Rl4ENf5flvIG9IBoqlJhl6pb_9WOtuGrhbvUe55KuGGKwIgxiokxLe3MEz24et9qLkshPRHqkTJrBpOYwi49KXhpUN6PZbkH1L9JVKG1rHfmx7QmfYaivQRBffiRzF9ZsKCLtXRK0nDials1NVP9xZPfS2xBniTdtWvrbTfX47xyjznBzBn-visKkYFb1RhElaiL6pupEpHQwu9RObyGa_cg4C4NY7WzXKHt4q9l4axGRhx224vfWiU9XyeIxidpXdX7esoapaMe3udi_cK3DaVAVZPIX69r6jKmRYrSL2EsUYubu8JPMFGXfsyplGLSgdi8osLi7BzQfkODULNCgaijWaj7b4bu7zaXOdZ5AMEXFB_Vb2JlvjTbf1jzFqMbT5VUN3l4ntCXMn-9rJvABZ1DYf1v-v9F072tdTnMGcqj3nHS8rjDc1WxoVvcAjX_tV9lfIUpBgyGbhBYP8bvAxdrotz8KWBJH7LJ6p2abZmCUwL1x4erGt_LN4Es73lVeX7hscMgFtuExfjPkeEBs6rGZ5T8X8v_MH0WLNyNFxicYBC0_A.RwbtibSEB2K2DjSl91jzUQ"
+        },
+        {
+          "name": "appSettingLocalStorage",
+          "value": "[{\"slug\":\"testv2_release_2_7\",\"data\":{\"personalization\":{},\"images\":{\"logo\":\"\",\"favicon\":\"\"}}}]"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.76cleouqlscv0i55vic6gsve13.google_107174296564305794668.idToken",
+          "value": "eyJraWQiOiJPZ1g4QnM5S3pZbWpyOXVaT29aRFI3WkRCRXQwbVwvYmlrelRiYWVjamV5OD0iLCJhbGciOiJSUzI1NiJ9.eyJhdF9oYXNoIjoiTm9IYnNVSmxMOEFJc3BpWlBuXzJKdyIsInN1YiI6IjU5YTRmNDQ0LWUzM2QtNGRkZS04MzVkLTA4ZWRhZGQyZTIyNSIsImNvZ25pdG86Z3JvdXBzIjpbInVzLWVhc3QtMV80R3pybU01b1RfR29vZ2xlIl0sImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfNEd6cm1NNW9UIiwiY29nbml0bzp1c2VybmFtZSI6Imdvb2dsZV8xMDcxNzQyOTY1NjQzMDU3OTQ2NjgiLCJnaXZlbl9uYW1lIjoiTWl0dGFsaSIsIm5vbmNlIjoiUTk2Ny1iR2FJZ1hXYWNLdkVCOGhXRk9faFc0azFLeWZkVXBxeWFVR210M2YwV3V2bGZDVEdURE5ObWp2blFLUHM1dnZHT0FMVEZ5dUJoWTJKZ1BVZUhlTTUyZFdtU3NpNUpfdFFfTXQ5NDhzeG5TbEpPaE5Ka3pjRnJrXzhYN3VyTUVmbk9MNGRGRmM4M3RZbXp1WF96bERCNC1nU1RKTmdEaERSY0g2QWdRIiwib3JpZ2luX2p0aSI6ImE2MjZhM2Y5LTMzYjMtNGQxYy04YzZjLWM5ZGU2ZWVjZGY4OCIsImF1ZCI6Ijc2Y2xlb3VxbHNjdjBpNTV2aWM2Z3N2ZTEzIiwiaWRlbnRpdGllcyI6W3sidXNlcklkIjoiMTA3MTc0Mjk2NTY0MzA1Nzk0NjY4IiwicHJvdmlkZXJOYW1lIjoiR29vZ2xlIiwicHJvdmlkZXJUeXBlIjoiR29vZ2xlIiwiaXNzdWVyIjpudWxsLCJwcmltYXJ5IjoidHJ1ZSIsImRhdGVDcmVhdGVkIjoiMTY2MzIzMzc4OTcyOCJ9XSwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE3NzM4MjQ4OTksImV4cCI6MTc3MzgyNTQ5OSwiaWF0IjoxNzczODI0ODk5LCJmYW1pbHlfbmFtZSI6IlNoYXJtYSIsImp0aSI6ImQwYTU1YmQzLWJkMTctNDk3Yi04OTY0LWJjNWIyMmJlNjc0MCIsImVtYWlsIjoibWl0dGFsaS5zaGFybWFAc2hvcmVsaW5laW90LmNvbSJ9.RsbReHDDyxO4RY3Kgfp-xvIlMWNjVMY3RzDQYDie8qin7FDpM-vpJu8c06dANYmPWjyo2PQZGqbOizGdcuOGD-NjZRBPXQ2jqzD7qr7Gd0COuF0JasVdL-2zHcaS814euDtxSoKikuh2ZqWmTDKyUg7NC40fJyCk78uzPN3gS5QLI5SUytA6A2WXzVZKOWuDCHPkE4haOXi5m91-2ac8eUQZNxhyE8KWXw5XM6CL1HWaxf7Ul5MXBjRH-McfQfTrBvzu1RT1fss6elA9QyUu6LZaopjc7iEuZFxsASuoS9iScvQcawhV8yt57q13gMvPXa5MtvVeSNnyGTo2KhK6UQ"
+        },
+        {
+          "name": "savedEmail",
+          "value": "mittali.sharma@shorelineiot.com"
+        },
+        {
+          "name": "self",
+          "value": "{\"testv2_release_2_7\":{\"cognito_uuid\":\"1163c20b-0629-46b1-a700-faabb3ef4cc9\",\"user_uuid\":\"517b182a-b05c-4fc3-aca2-14fea441e050\",\"first_name\":\"Mittali\",\"last_name\":\"\",\"country_code\":null,\"mobile\":null,\"system_units\":\"imperial\",\"email\":\"mittali.sharma@shorelineiot.com\",\"role\":{\"id\":\"c8fd9f9c-c82f-4120-ba35-b7fd2d9ce1f6\",\"name\":\"Super Admin\"},\"role_actions\":[{\"action_uuid\":\"f2a6a471-a05c-4d1a-a771-cd3232fddf34\",\"name\":\"create organization\",\"display_name\":\"Create new organization\",\"action_type\":\"create\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"90ed42af-d434-4548-a440-6412f6daa885\"},{\"action_uuid\":\"b635a25f-34e8-4e06-b7d4-f9c0e07c861e\",\"name\":\"view organization\",\"display_name\":\"View Organization list\",\"action_type\":\"read\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"a3d17c01-6fa6-4456-860b-284aacb54ff5\"},{\"action_uuid\":\"1f60ba7d-d608-41ab-9604-f6eb669d7641\",\"name\":\"view_details organization\",\"display_name\":\"View Organization details\",\"action_type\":\"read\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"c23d1604-d918-4724-a598-2f16d787c551\"},{\"action_uuid\":\"2a9c49f7-8e9e-4f48-bdcb-8734d5180412\",\"name\":\"update organization\",\"display_name\":\"Update Organization details\",\"action_type\":\"update\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"e0fc032f-08f9-4bda-a71c-08a6bffab352\"},{\"action_uuid\":\"d8168bdf-3c79-45d4-bfc5-3f3085939a71\",\"name\":\"delete organization\",\"display_name\":\"Delete an organization\",\"action_type\":\"delete\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"8625989c-5205-4879-8c44-605c36a1e0b1\"},{\"action_uuid\":\"201ba422-b7fe-43a6-98dd-1a6144fc9f20\",\"name\":\"create_sso_idp\",\"display_name\":\"Create new SSO Identity Provider\",\"action_type\":\"create\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"08baff63-ea29-4191-bdc5-a57d051d5d37\"},{\"action_uuid\":\"327975ca-a7f6-4dcc-8ba0-7f50967b4b1a\",\"name\":\"view_sso_idp\",\"display_name\":\"View SSO Identity Providers\",\"action_type\":\"read\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"6c9839e4-658f-4a53-a903-9fddc88a216b\"},{\"action_uuid\":\"85f7e97b-64f8-4f86-b768-e03717237736\",\"name\":\"update_sso_idp\",\"display_name\":\"Update SSO Identity Providers\",\"action_type\":\"update\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"944522a0-e06d-485a-a036-6dd0733dbe9c\"},{\"action_uuid\":\"5e7e9a41-b69a-4e79-b78c-ffd8c7695e10\",\"name\":\"delete_sso_idp\",\"display_name\":\"Delete SSO Identity Provider\",\"action_type\":\"delete\",\"resource_type\":\"Organization\",\"role_action_uuid\":\"86e291f4-691c-4339-83c2-bc54ec4bef4f\"},{\"action_uuid\":\"92bc8bc4-ea98-4a84-be29-ffdcfa4dca98\",\"name\":\"create sub_org\",\"display_name\":\"Create new sub organization\",\"action_type\":\"create\",\"resource_type\":\"SubOrg\",\"role_action_uuid\":\"871e7d14-c0de-4131-b4b0-970fb63804d6\"},{\"action_uuid\":\"33dc0252-2b81-4cf3-951f-dd8810501621\",\"name\":\"add device\",\"display_name\":\"Add new device\",\"action_type\":\"create\",\"resource_type\":\"Device\",\"role_action_uuid\":\"400f12cf-1a22-49bd-a1e1-722e65b6db5e\"},{\"action_uuid\":\"3338c2d7-9b68-410a-a9a2-d928d5c2c22f\",\"name\":\"view device\",\"display_name\":\"View device list\",\"action_type\":\"read\",\"resource_type\":\"Device\",\"role_action_uuid\":\"59c42853-7b7a-4713-b658-010fd067cc40\"},{\"action_uuid\":\"9e8ab2ed-d2a8-44f1-a435-731b1ffa29e1\",\"name\":\"view_details device\",\"display_name\":\"View device details\",\"action_type\":\"read\",\"resource_type\":\"Device\",\"role_action_uuid\":\"98e9eaac-5c98-4bf7-afc0-1ae3a95ef037\"},{\"action_uuid\":\"f90124d3-f5f5-4fc5-99fa-241105c4227f\",\"name\":\"update device\",\"display_name\":\"Update device details\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"0b6076a6-6515-4c37-bb69-001fd9327503\"},{\"action_uuid\":\"3ee4feba-f229-4110-ada1-b20fd27ef4b4\",\"name\":\"view_data device\",\"display_name\":\"View device data\",\"action_type\":\"read\",\"resource_type\":\"Device\",\"role_action_uuid\":\"592d37d9-3bdd-47e5-bd23-1f04b3cd9462\"},{\"action_uuid\":\"12e436e9-358f-4c9b-b838-7bfc9d161ec4\",\"name\":\"device actions\",\"display_name\":\"Write actions to device\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"789a49f3-53be-40f4-a1e2-68b06928a341\"},{\"action_uuid\":\"b87b1f18-b814-4cc0-8a86-16e695153166\",\"name\":\"device live_data\",\"display_name\":\"View real time device data\",\"action_type\":\"read\",\"resource_type\":\"Device\",\"role_action_uuid\":\"3ea40bcc-23d8-4c10-a4db-01c1d4353045\"},{\"action_uuid\":\"1d339b53-49aa-4915-a551-94484d4cc8d9\",\"name\":\"device attach_profile\",\"display_name\":\"Attach device profile\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"cd63c091-59e1-4400-a3b2-ee4bcf7c59ed\"},{\"action_uuid\":\"993cd7d9-731f-4a77-9c15-4b65ca261566\",\"name\":\"delete device\",\"display_name\":\"Delete the device\",\"action_type\":\"delete\",\"resource_type\":\"Device\",\"role_action_uuid\":\"7726ea54-e37b-421e-92d1-f1d016a984c7\"},{\"action_uuid\":\"ee27d699-024a-4199-ad83-2f93b0957ffc\",\"name\":\"device firmware_apply\",\"display_name\":\"Firmware update to device\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"f223980b-b46e-4900-99c8-16dee5696c34\"},{\"action_uuid\":\"86c2d597-a36d-49dd-aaed-9c0da71e7c5b\",\"name\":\"reboot device\",\"display_name\":\"Reboot the device\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"6587bfc4-4d03-461d-b366-44dcd8d402d7\"},{\"action_uuid\":\"b8d8a896-fc6a-4f97-8c89-bbb6895c274e\",\"name\":\"standby device\",\"display_name\":\"Put Device in Standby\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"d421ec7c-d5ee-49f3-8fed-3b878bd770ae\"},{\"action_uuid\":\"d582b04c-351c-4ac5-b4e0-f0f0d97bdbde\",\"name\":\"deactivate device\",\"display_name\":\"Deactivate the device\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"dca91bac-75bc-4532-a198-cef9a13a5252\"},{\"action_uuid\":\"87e63264-e2f6-47b6-8da8-33efef109c88\",\"name\":\"device add_rule\",\"display_name\":\"Create new Rule\",\"action_type\":\"create\",\"resource_type\":\"Device\",\"role_action_uuid\":\"60a91317-32fb-4578-b5f0-048253ec4cdb\"},{\"action_uuid\":\"580a5fc9-6c0e-4992-adb5-e3277b46b778\",\"name\":\"view device_debug_log\",\"display_name\":\"View debug logs\",\"action_type\":\"read\",\"resource_type\":\"Device\",\"role_action_uuid\":\"9fccded4-be41-48bd-882f-4082528ac012\"},{\"action_uuid\":\"cac64650-4985-43a5-8576-64eb64fbc2a6\",\"name\":\"device update_rule\",\"display_name\":\"Update the Rule\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"6418be94-31f4-4d9e-8487-63f1fd7c4845\"},{\"action_uuid\":\"4ad27858-aa83-4571-a713-325ebc3669a8\",\"name\":\"device delete_rule\",\"display_name\":\"Delete the Rule\",\"action_type\":\"delete\",\"resource_type\":\"Device\",\"role_action_uuid\":\"3643273b-89bc-4aac-9f07-ebbe8a1f3356\"},{\"action_uuid\":\"5262ec2b-2982-45cc-bfe0-f594b5261e30\",\"name\":\"reprovision device\",\"display_name\":\"Reprovision the device\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"e53991b7-7ece-4873-878c-fb5da8c1bf62\"},{\"action_uuid\":\"37cefae0-97b9-4241-81f3-23b28fc28fd6\",\"name\":\"reset provision\",\"display_name\":\"Reset Provision Failed device\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"52e573f2-3f93-4d30-aec4-40d631144801\"},{\"action_uuid\":\"d7557784-3219-446e-b74e-eadc73d73c69\",\"name\":\"device odr update\",\"display_name\":\"Update Sensor ODRs\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"f7c6957e-8eef-47a0-8921-376a7bd9dfa6\"},{\"action_uuid\":\"cede6186-87a3-4366-995c-e9ca4241fe36\",\"name\":\"device odr_samples update\",\"display_name\":\"Update Sensor ODR samples count\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"32642fa7-7071-44cb-926e-fe8edb857c16\"},{\"action_uuid\":\"7bcdb4ab-df0a-46ff-a014-432133ea9ce2\",\"name\":\"device schedule update\",\"display_name\":\"Update Sensor Schedule\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"91e4e6ac-3244-4ec3-90a6-ec13f99690af\"},{\"action_uuid\":\"3c24b238-efef-4eb8-9931-7f19d8197764\",\"name\":\"update sensor settings\",\"display_name\":\"Update Sensor Settings\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"02cde041-ff80-4859-93e2-14c84f2c36bf\"},{\"action_uuid\":\"5b886c7e-0c8e-4ef1-8666-6cb21b4bab65\",\"name\":\"device_data_hide_exclude\",\"display_name\":\"Hide/Exclude Device data\",\"action_type\":\"update\",\"resource_type\":\"Device\",\"role_action_uuid\":\"7733b3f7-b206-416c-b74e-2fef49b3d8f0\"},{\"action_uuid\":\"b6990ba4-9ea8-4736-a831-664f81f6dd1c\",\"name\":\"view firmware\",\"display_name\":\"View list of available firmwares\",\"action_type\":\"read\",\"resource_type\":\"Firmware\",\"role_action_uuid\":\"41140797-e822-43c8-b8c1-591dee92ccac\"},{\"action_uuid\":\"6cd71b60-a34e-4fb3-bc95-f5929998eb4c\",\"name\":\"upload_image firmware\",\"display_name\":\"Upload new firmware\",\"action_type\":\"create\",\"resource_type\":\"Firmware\",\"role_action_uuid\":\"59654189-2cd0-487d-82bc-828553895f3c\"},{\"action_uuid\":\"9c1b35f4-b8cd-4bca-9e30-8e9a28e9b7cb\",\"name\":\"delete_image firmware\",\"display_name\":\"Delete existing firmwares\",\"action_type\":\"delete\",\"resource_type\":\"Firmware\",\"role_action_uuid\":\"c477e099-6caf-4757-b8b4-a2de4ac8a506\"},{\"action_uuid\":\"3656c505-7bc1-47d9-81d7-6f3c4f482630\",\"name\":\"create device_profile\",\"display_name\":\"Create a device profile\",\"action_type\":\"create\",\"resource_type\":\"DeviceProfile\",\"role_action_uuid\":\"fc8965da-e759-472d-8a54-cc9d033e94ea\"},{\"action_uuid\":\"2358aa0e-eeb8-4a1a-ac04-8fe1d14c2629\",\"name\":\"view_details device_profile\",\"display_name\":\"View details of device profile\",\"action_type\":\"read\",\"resource_type\":\"DeviceProfile\",\"role_action_uuid\":\"e930cdb8-6a8c-4618-a2a4-04566bb5f2a9\"},{\"action_uuid\":\"4243ce40-7087-4804-9b28-f7dceff52052\",\"name\":\"view device_profile\",\"display_name\":\"View list of device profiles\",\"action_type\":\"read\",\"resource_type\":\"DeviceProfile\",\"role_action_uuid\":\"9df22e8d-6480-4df6-ae70-2f3920fdd939\"},{\"action_uuid\":\"2d039641-a202-43d2-b8b3-9214f305b84f\",\"name\":\"update device_profile\",\"display_name\":\"Update/edit existing profiles\",\"action_type\":\"update\",\"resource_type\":\"DeviceProfile\",\"role_action_uuid\":\"6dd38018-f66c-4f93-b0c7-9250ab6d66da\"},{\"action_uuid\":\"3f003331-efea-47b0-aa75-29914e1a01c4\",\"name\":\"delete device_profile\",\"display_name\":\"Delete the existing profiles\",\"action_type\":\"delete\",\"resource_type\":\"DeviceProfile\",\"role_action_uuid\":\"5a4a5c6b-cb11-461d-93f5-1fafc2db94bd\"},{\"action_uuid\":\"c6275767-3428-4914-bfd5-2773bcf02854\",\"name\":\"create device_rule\",\"display_name\":\"Create Device Rules\",\"action_type\":\"create\",\"resource_type\":\"DeviceRule\",\"role_action_uuid\":\"4f997dd2-c97a-4b77-b402-5be69c0715ad\"},{\"action_uuid\":\"55ceec56-bdc3-47c3-b6fa-3d85caa47c5a\",\"name\":\"view device_rule\",\"display_name\":\"View existing rules\",\"action_type\":\"read\",\"resource_type\":\"DeviceRule\",\"role_action_uuid\":\"3a5905b0-c8cd-4a51-b96a-fa58b2620c9e\"},{\"action_uuid\":\"cca9a89d-4e4c-4013-a610-dfed7003947b\",\"name\":\"view_details device_rule\",\"display_name\":\"View existing rules details\",\"action_type\":\"read\",\"resource_type\":\"DeviceRule\",\"role_action_uuid\":\"9671ece9-51b4-4dac-b826-dfb95fa614c6\"},{\"action_uuid\":\"22013bce-136c-4f05-a7e5-c4e28927744d\",\"name\":\"update device_rule\",\"display_name\":\"Update/edit the existing rules\",\"action_type\":\"update\",\"resource_type\":\"DeviceRule\",\"role_action_uuid\":\"eb144ebc-fcd4-47f9-87d5-1556dd7befdb\"},{\"action_uuid\":\"9498a018-5500-46a5-9ac2-e5f78708ae75\",\"name\":\"delete device_rule\",\"display_name\":\"Delete an existing rule\",\"action_type\":\"delete\",\"resource_type\":\"DeviceRule\",\"role_action_uuid\":\"f52c5dc0-53d2-486e-970d-761eb28fbbfc\"},{\"action_uuid\":\"051548a2-5bbe-4898-9549-772e6d222f20\",\"name\":\"view default_rule\",\"display_name\":\"View existing default rules\",\"action_type\":\"read\",\"resource_type\":\"DefaultRule\",\"role_action_uuid\":\"08115ba8-cf6d-4af5-8a45-0f6e5912a775\"},{\"action_uuid\":\"c86a05bd-d116-4620-b069-95868d202150\",\"name\":\"update default_rule\",\"display_name\":\"Update/edit existing default rules\",\"action_type\":\"update\",\"resource_type\":\"DefaultRule\",\"role_action_uuid\":\"f719127b-65dc-42cf-929c-17e00daa674d\"},{\"action_uuid\":\"7aaba344-a497-4a13-8633-461f5c9e7319\",\"name\":\"invite user\",\"display_name\":\"Invite new user(s)\",\"action_type\":\"create\",\"resource_type\":\"User\",\"role_action_uuid\":\"82dd6879-626a-4c5d-aaf9-738fbb1f734f\"},{\"action_uuid\":\"eb989381-8c19-43e4-9361-bc96674926bc\",\"name\":\"remove user\",\"display_name\":\"Delete a user(s)\",\"action_type\":\"delete\",\"resource_type\":\"User\",\"role_action_uuid\":\"a44bd623-9a98-4f42-8704-e5aa148083a8\"},{\"action_uuid\":\"872b524f-b39b-4bdf-bd09-890af045c3e8\",\"name\":\"view user\",\"display_name\":\"View list of users\",\"action_type\":\"read\",\"resource_type\":\"User\",\"role_action_uuid\":\"602b096b-171e-4e46-bba6-c5750c629757\"},{\"action_uuid\":\"6154d64b-57c2-477b-a62b-7fe1f9ee48ef\",\"name\":\"block user\",\"display_name\":\"Block a user(s)\",\"action_type\":\"delete\",\"resource_type\":\"User\",\"role_action_uuid\":\"22fe5c0f-2eea-4a32-b34c-e9223917594b\"},{\"action_uuid\":\"4a90684c-c3d0-4a69-b4d3-ace97fcad176\",\"name\":\"unblock user\",\"display_name\":\"Unblock a user(s)\",\"action_type\":\"update\",\"resource_type\":\"User\",\"role_action_uuid\":\"81692fc0-6bc8-40cc-a691-e6cfb9a7ae55\"},{\"action_uuid\":\"cce83f73-690e-46fb-a576-f0b53c1d4725\",\"name\":\"change_payee\",\"display_name\":\"Become an Org Payee\",\"action_type\":\"update\",\"resource_type\":\"User\",\"role_action_uuid\":\"7d0d7a4a-6210-4aa4-858a-36fb7237c938\"},{\"action_uuid\":\"4a976936-06a6-4c91-bf7d-f72d527aa2ba\",\"name\":\"view subscription\",\"display_name\":\"View subscription list\",\"action_type\":\"read\",\"resource_type\":\"Subscription\",\"role_action_uuid\":\"7a7404f2-2e57-470b-b38c-f15b5de75016\"},{\"action_uuid\":\"12878d8c-a229-4de9-ad82-f7c0c99c9544\",\"name\":\"delete subscription\",\"display_name\":\"Delete a subscription\",\"action_type\":\"delete\",\"resource_type\":\"Subscription\",\"role_action_uuid\":\"5496e6f0-85f1-4bcf-863b-66f3506502cc\"},{\"action_uuid\":\"62142958-99b2-41af-88b7-e6c825463a3c\",\"name\":\"update subscription\",\"display_name\":\"Modify a subscription\",\"action_type\":\"update\",\"resource_type\":\"Subscription\",\"role_action_uuid\":\"5a7696ff-dffa-422f-beb3-178b8efb6d79\"},{\"action_uuid\":\"26efd325-1971-4420-af90-b57176b79b45\",\"name\":\"create subscription\",\"display_name\":\"Create new subscription\",\"action_type\":\"create\",\"resource_type\":\"Subscription\",\"role_action_uuid\":\"1152d4cc-0a1e-4cc0-9991-0a0d2bf7dd7a\"},{\"action_uuid\":\"9a92317f-9c65-45aa-a3f3-db1b972eed5a\",\"name\":\"add_payment_method\",\"display_name\":\"Add new payment method\",\"action_type\":\"create\",\"resource_type\":\"Billing\",\"role_action_uuid\":\"0f0b7a9f-b2e8-4c3d-ad90-fa5d6d302798\"},{\"action_uuid\":\"a48c2193-e4b4-41ff-900f-2221f59c9105\",\"name\":\"select_pref_payment_method\",\"display_name\":\"Select payment method\",\"action_type\":\"update\",\"resource_type\":\"Billing\",\"role_action_uuid\":\"ab0b5a55-a717-4c05-a1e1-7a064cbb7801\"},{\"action_uuid\":\"72d9415c-fc4a-4130-8b42-f759c43f660c\",\"name\":\"delete_payment_method\",\"display_name\":\"Delete payment method\",\"action_type\":\"delete\",\"resource_type\":\"Billing\",\"role_action_uuid\":\"4ecdb4f6-3fbb-481e-8361-bcd284e03b93\"},{\"action_uuid\":\"d7e9b77b-d4ae-4208-8939-4e4cdeac3a29\",\"name\":\"view_payment_details\",\"display_name\":\"View payment details\",\"action_type\":\"read\",\"resource_type\":\"Billing\",\"role_action_uuid\":\"b29a8356-9869-4f56-992c-76f401ba9e48\"},{\"action_uuid\":\"3da6a20d-6ac9-438d-8eea-42718f268c4a\",\"name\":\"view_billing_details\",\"display_name\":\"View invoices\",\"action_type\":\"read\",\"resource_type\":\"Billing\",\"role_action_uuid\":\"d4b6dbbb-c24e-43c1-b488-93bce8ba6cea\"},{\"action_uuid\":\"81094e9d-5e3c-417e-9a25-5dd352fc8fa4\",\"name\":\"make_payment\",\"display_name\":\"Make a payment\",\"action_type\":\"create\",\"resource_type\":\"Billing\",\"role_action_uuid\":\"4be878ca-02ef-4b07-99a6-216a529c27a4\"},{\"action_uuid\":\"06b6ba97-d57d-410d-aa10-467e7c495bdf\",\"name\":\"create sr\",\"display_name\":\"Create support ticket\",\"action_type\":\"create\",\"resource_type\":\"SupportRequest\",\"role_action_uuid\":\"35861a18-c5d3-4897-bad1-3d99e5a79ff8\"},{\"action_uuid\":\"1d07ec8b-f8fe-416c-bec4-75a9cc4d6f1d\",\"name\":\"update sr\",\"display_name\":\"Update support ticket\",\"action_type\":\"update\",\"resource_type\":\"SupportRequest\",\"role_action_uuid\":\"9c029f51-03cb-489e-ac0a-f90d237a4ed8\"},{\"action_uuid\":\"9d98c737-359b-480a-8dfc-d95869d0bcd2\",\"name\":\"view sr\",\"display_name\":\"View the tickets\",\"action_type\":\"read\",\"resource_type\":\"SupportRequest\",\"role_action_uuid\":\"f3bb4efb-91a6-4f86-b710-ce9d6ef02c5e\"},{\"action_uuid\":\"d4c6dbdb-8f1d-4d41-acf1-b64857c53c45\",\"name\":\"view alog\",\"display_name\":\"View activity logs\",\"action_type\":\"read\",\"resource_type\":\"ActivityLogs\",\"role_action_uuid\":\"ada304e8-a1f1-4002-8598-1619d9c0939b\"},{\"action_uuid\":\"f2476da6-0765-4639-9a4c-93efa9450947\",\"name\":\"archive alog\",\"display_name\":\"Archive activity logs\",\"action_type\":\"update\",\"resource_type\":\"ActivityLogs\",\"role_action_uuid\":\"a69421fc-a64d-4302-8659-e67053632daa\"},{\"action_uuid\":\"6dc22b85-e65b-4196-8b28-b75ec17d184e\",\"name\":\"view narrowband\",\"display_name\":\"View narrowband\",\"action_type\":\"read\",\"resource_type\":\"Narrowband\",\"role_action_uuid\":\"2e5e68fa-6af6-43d2-a024-f5649d84065b\"},{\"action_uuid\":\"c1e0a19c-cefb-415e-9344-31866fb6da2e\",\"name\":\"create narrowband\",\"display_name\":\"Create narrowband\",\"action_type\":\"create\",\"resource_type\":\"Narrowband\",\"role_action_uuid\":\"2a8276fe-3956-47a6-b95b-21d442028d59\"},{\"action_uuid\":\"d148b985-0654-4b40-9baa-09f6345c9e62\",\"name\":\"delete narrowband\",\"display_name\":\"Delete narrowband\",\"action_type\":\"delete\",\"resource_type\":\"Narrowband\",\"role_action_uuid\":\"996eb3cc-64aa-45e1-946a-fa77c6745a8b\"},{\"action_uuid\":\"b4e4f865-f5e5-4679-a5e5-6a08f00d357a\",\"name\":\"edit narrowband\",\"display_name\":\"Edit narrowband\",\"action_type\":\"update\",\"resource_type\":\"Narrowband\",\"role_action_uuid\":\"b67e7c50-a8b3-4ebb-94c9-b09b51c141e6\"},{\"action_uuid\":\"9dc2cade-0ed9-4fa5-98ea-d21f568bc26c\",\"name\":\"view vibration analysis\",\"display_name\":\"View vibration analysis\",\"action_type\":\"read\",\"resource_type\":\"Vibration Analysis\",\"role_action_uuid\":\"ba50e11e-46c2-49f2-86a8-38cd3233e2de\"},{\"action_uuid\":\"97726907-80ec-483e-820c-822b58ae4fbe\",\"name\":\"view dashboard\",\"display_name\":\"View Dashboard\",\"action_type\":\"read\",\"resource_type\":\"Dashboard\",\"role_action_uuid\":\"0db698af-5b92-4a04-97e0-c6b0083acfd8\"},{\"action_uuid\":\"5a602776-2f8d-46fc-b8d6-d40a3f88a8ba\",\"name\":\"create dashboard\",\"display_name\":\"Create Dashboard\",\"action_type\":\"create\",\"resource_type\":\"Dashboard\",\"role_action_uuid\":\"1cffc82b-76b1-46f4-8fcb-ec44f67dafa2\"},{\"action_uuid\":\"c364ad21-1d53-43b8-9eef-96e5217fb488\",\"name\":\"update dashboard\",\"display_name\":\"Update Dashboard\",\"action_type\":\"update\",\"resource_type\":\"Dashboard\",\"role_action_uuid\":\"4db6c375-9ade-46e3-82ce-c0fed0157c35\"},{\"action_uuid\":\"9547f3ee-24ad-4a4f-a228-ebfcb5918d7e\",\"name\":\"delete dashboard\",\"display_name\":\"Delete Dashboard\",\"action_type\":\"delete\",\"resource_type\":\"Dashboard\",\"role_action_uuid\":\"bcaee7d2-a072-458f-ba74-2356f473f7f2\"},{\"action_uuid\":\"9a0e55bd-8684-47b4-93ba-817bb4bd6268\",\"name\":\"create group\",\"display_name\":\"Create device groups\",\"action_type\":\"create\",\"resource_type\":\"Device Groups\",\"role_action_uuid\":\"513f2c0c-9e4b-43f2-808c-ed6ee05a5329\"},{\"action_uuid\":\"b699429d-c9e3-4871-af6e-3b5ac8494993\",\"name\":\"update group\",\"display_name\":\"Add devices to groups\",\"action_type\":\"update\",\"resource_type\":\"Device Groups\",\"role_action_uuid\":\"2a312b6c-d16e-4e81-98ff-451829c130b8\"},{\"action_uuid\":\"c70537e2-e5a9-4aec-87ed-ad605ffd5f5c\",\"name\":\"delete group\",\"display_name\":\"Delete device groups\",\"action_type\":\"delete\",\"resource_type\":\"Device Groups\",\"role_action_uuid\":\"0ba0cec0-608f-4f32-9042-835c24c44179\"},{\"action_uuid\":\"3fdf9769-a815-4f1d-98a5-5188d37d3745\",\"name\":\"view groups\",\"display_name\":\"View all device groups\",\"action_type\":\"read\",\"resource_type\":\"Device Groups\",\"role_action_uuid\":\"e972789c-6062-466b-a8e3-e0083e169092\"},{\"action_uuid\":\"f65ee7ad-189b-4d21-8f19-d7a65310754a\",\"name\":\"view alarms\",\"display_name\":\"View list of alarms\",\"action_type\":\"read\",\"resource_type\":\"Alarms\",\"role_action_uuid\":\"088406a9-a633-45b8-8154-39c968cc22e7\"},{\"action_uuid\":\"60b6e005-36e7-4713-b718-f7f23800b09e\",\"name\":\"create alarms\",\"display_name\":\"Create alarms\",\"action_type\":\"create\",\"resource_type\":\"Alarms\",\"role_action_uuid\":\"08af1a32-196d-4ae5-9c61-10ac6c7d8056\"},{\"action_uuid\":\"05126a71-d48a-4eac-ae7a-809142f82c4b\",\"name\":\"update alarms\",\"display_name\":\"Clear alarms\",\"action_type\":\"update\",\"resource_type\":\"Alarms\",\"role_action_uuid\":\"67747218-a250-4f36-9c17-974797911e23\"},{\"action_uuid\":\"2810c646-7c3c-4e93-9225-1c749944462e\",\"name\":\"view sensor alarms\",\"display_name\":\"View Sensor alarms\",\"action_type\":\"read\",\"resource_type\":\"Alarms\",\"role_action_uuid\":\"aaa8095c-c6c3-49d6-8c9d-3de3c24bcca8\"},{\"action_uuid\":\"b4e57f1f-e2ad-41f6-b94d-9fbb5796e84f\",\"name\":\"create api keys\",\"display_name\":\"Create API Keys\",\"action_type\":\"create\",\"resource_type\":\"API Keys\",\"role_action_uuid\":\"6c24979f-0646-412d-be72-b3be687e5139\"},{\"action_uuid\":\"ae43eed3-c381-4f57-877a-369034f21a9e\",\"name\":\"view api keys\",\"display_name\":\"View API Keys\",\"action_type\":\"read\",\"resource_type\":\"API Keys\",\"role_action_uuid\":\"7989a6e3-b897-469f-a971-383f8fc100b6\"},{\"action_uuid\":\"9a582f2a-1c25-4268-8f0c-e1de2019aec9\",\"name\":\"update api keys\",\"display_name\":\"Update API Keys\",\"action_type\":\"update\",\"resource_type\":\"API Keys\",\"role_action_uuid\":\"b9c1fc5e-7270-42c4-a733-8c2662db3cca\"},{\"action_uuid\":\"dcc3c654-9b38-4721-82bc-6821e6d66a41\",\"name\":\"delete api keys\",\"display_name\":\"Delete API Keys\",\"action_type\":\"delete\",\"resource_type\":\"API Keys\",\"role_action_uuid\":\"16f9b007-b71f-4682-bb24-785706f8f712\"},{\"action_uuid\":\"7dfacc7f-3d7e-4e62-a558-60d36be0411e\",\"name\":\"view anomaly\",\"display_name\":\"view anomaly\",\"action_type\":\"read\",\"resource_type\":\"View Anomaly List\",\"role_action_uuid\":\"6020c1d2-5845-4534-9f3a-e62b2c772c13\"},{\"action_uuid\":\"422f6341-5b41-4ca8-9a0e-391ed83de725\",\"name\":\"create anomaly\",\"display_name\":\"create anomaly\",\"action_type\":\"create\",\"resource_type\":\"Create Anomaly\",\"role_action_uuid\":\"119e61de-69db-4f12-94dc-c48f33ac5f68\"},{\"action_uuid\":\"a91c850f-c810-430a-a9d3-61f442c59302\",\"name\":\"update anomaly\",\"display_name\":\"update anomaly\",\"action_type\":\"update\",\"resource_type\":\"Update Anomaly\",\"role_action_uuid\":\"92755be6-b744-4790-b6ba-2dbf3d7469cd\"},{\"action_uuid\":\"22a0c674-1924-4e6d-bccd-8c0728df4d35\",\"name\":\"delete anomaly\",\"display_name\":\"delete anomaly\",\"action_type\":\"delete\",\"resource_type\":\"Delete Anomaly\",\"role_action_uuid\":\"a22d339b-f471-45cf-9a90-50ebf833e144\"},{\"action_uuid\":\"69f0a6f0-04ad-4cc9-8205-d7cb186515b1\",\"name\":\"create auto narrowband\",\"display_name\":\"Create automatic narrowbands\",\"action_type\":\"create\",\"resource_type\":\"Narrowband Auto Configurator\",\"role_action_uuid\":\"02215ff7-cf48-478a-be82-8b9f6baf223e\"},{\"action_uuid\":\"f30efe25-6b19-42e2-9927-ba0ab88329e2\",\"name\":\"update auto narrowband\",\"display_name\":\"Update automatic narrowbands\",\"action_type\":\"update\",\"resource_type\":\"Narrowband Auto Configurator\",\"role_action_uuid\":\"a809a544-6ff8-45ea-8ab7-39789c2d9bc0\"},{\"action_uuid\":\"28daf7c3-0cfd-4f37-9748-f1e7b4e4c5c0\",\"name\":\"delete auto narrowband\",\"display_name\":\"Delete automatic narrowbands\",\"action_type\":\"delete\",\"resource_type\":\"Narrowband Auto Configurator\",\"role_action_uuid\":\"ef45a706-8cc6-43c3-a36d-3a61543febd8\"},{\"action_uuid\":\"35efd95e-9e16-477f-8078-4922fc8ffb86\",\"name\":\"view auto narrowband\",\"display_name\":\"View automatic narrowbands\",\"action_type\":\"read\",\"resource_type\":\"Narrowband Auto Configurator\",\"role_action_uuid\":\"ec1f1755-92b2-4840-be85-2c46d565d080\"},{\"action_uuid\":\"03deca0d-b059-4fd9-a8b7-8f81fc664662\",\"name\":\"update device cpm\",\"display_name\":\"Update device CPM\",\"action_type\":\"update\",\"resource_type\":\"Device CPM\",\"role_action_uuid\":\"63eafc39-deb2-4020-9b8f-db714473d231\"},{\"action_uuid\":\"4a5fa6b2-9e7b-4202-8aa2-bdcd94273008\",\"name\":\"view component compiler\",\"display_name\":\"View Component Compiler\",\"action_type\":\"read\",\"resource_type\":\"Component Compiler\",\"role_action_uuid\":\"2bd389e2-140e-45ad-80b4-e02c872e226d\"},{\"action_uuid\":\"ebd89a5f-ec81-4fcc-a707-accb6abc86f9\",\"name\":\"create component compiler\",\"display_name\":\"Create Component Compiler\",\"action_type\":\"create\",\"resource_type\":\"Component Compiler\",\"role_action_uuid\":\"dcc5ee5f-95b5-4f24-8f16-d0d26f76904d\"},{\"action_uuid\":\"ccaca29a-7a87-45ee-b00f-f846413496f4\",\"name\":\"update component compiler\",\"display_name\":\"Update Component Compiler\",\"action_type\":\"update\",\"resource_type\":\"Component Compiler\",\"role_action_uuid\":\"77ed8d1a-9de4-4955-9e9c-4371119d3eec\"},{\"action_uuid\":\"e96c1056-b414-46ba-a57f-5d8595445bfa\",\"name\":\"delete component compiler\",\"display_name\":\"Delete Component Compiler\",\"action_type\":\"delete\",\"resource_type\":\"Component Compiler\",\"role_action_uuid\":\"ec098b24-668a-4b19-a3ed-57a05b8bb43d\"},{\"action_uuid\":\"b07f9ebe-5309-4048-9f97-80a52171f0f1\",\"name\":\"copy component compiler\",\"display_name\":\"Copy Component Compiler\",\"action_type\":\"create\",\"resource_type\":\"Component Compiler\",\"role_action_uuid\":\"ae1c64e3-b091-4dc5-8f5c-fca1899e0f54\"},{\"action_uuid\":\"7b85e0ec-ef75-433e-8ebf-c2b7f60796f7\",\"name\":\"view mailbox\",\"display_name\":\"View mailbox\",\"action_type\":\"read\",\"resource_type\":\"Device Mailbox\",\"role_action_uuid\":\"c6ff373b-25cc-49ab-a03c-0c268a98bbab\"},{\"action_uuid\":\"93abe320-3aca-4cb0-8365-1b949a400831\",\"name\":\"update mailbox\",\"display_name\":\"Update mailbox\",\"action_type\":\"update\",\"resource_type\":\"Device Mailbox\",\"role_action_uuid\":\"34caec7f-6350-4102-a2fc-a591cffb47d9\"},{\"action_uuid\":\"677a8698-9650-46fc-a762-57c9bbae6118\",\"name\":\"update device data\",\"display_name\":\"Update device data\",\"action_type\":\"update\",\"resource_type\":\"Device Data\",\"role_action_uuid\":\"fd6ad9a0-f818-46d4-9e6d-003d84f3874b\"},{\"action_uuid\":\"f39459ce-acc5-4ce5-bebb-c75cf1579781\",\"name\":\"view device data\",\"display_name\":\"View external data\",\"action_type\":\"read\",\"resource_type\":\"External Data\",\"role_action_uuid\":\"d1e3fb4c-390d-43f6-81ba-0ed3f67ebed8\"},{\"action_uuid\":\"56feec5b-397d-410b-94e2-d8fd5ff38b68\",\"name\":\"update sim settings\",\"display_name\":\"Update Sim Settings\",\"action_type\":\"update\",\"resource_type\":\"Sim Setting\",\"role_action_uuid\":\"cad37220-7e28-42eb-8153-a2832ec89994\"},{\"action_uuid\":\"db3a6fa1-69e9-4b3e-bfab-6318e536ed69\",\"name\":\"create widget\",\"display_name\":\"Create Widget\",\"action_type\":\"create\",\"resource_type\":\"Widget\",\"role_action_uuid\":\"bde57228-5ec5-4eb2-a6b6-06b1de3b9cae\"},{\"action_uuid\":\"710e28e2-ebe7-4102-8aac-1a6611ecec15\",\"name\":\"view widget\",\"display_name\":\"View Widget\",\"action_type\":\"read\",\"resource_type\":\"Widget\",\"role_action_uuid\":\"a1056f80-589e-4243-8345-d4f6ee23c26f\"},{\"action_uuid\":\"5ddefead-8117-43a4-9a1e-9bc010b23c88\",\"name\":\"update widgets\",\"display_name\":\"Update Widgets\",\"action_type\":\"update\",\"resource_type\":\"Widget\",\"role_action_uuid\":\"5fb124ff-e41b-40b2-a4e2-0f4ac0ef1925\"},{\"action_uuid\":\"40103612-a025-4e35-9917-b168328fdc2a\",\"name\":\"delete widget\",\"display_name\":\"Delete Widget\",\"action_type\":\"delete\",\"resource_type\":\"Widget\",\"role_action_uuid\":\"fc44e24e-a7eb-43b0-813c-0341930fb851\"},{\"action_uuid\":\"64e59afa-118e-4498-8520-e8e071c02e33\",\"name\":\"view widget data\",\"display_name\":\"View Widget Data\",\"action_type\":\"read\",\"resource_type\":\"Widget Data\",\"role_action_uuid\":\"83783b55-78bb-42b5-86cb-ce326aefb70b\"},{\"action_uuid\":\"f49db7e1-d250-442c-9a02-d79f446cfe1d\",\"name\":\"create powertrain\",\"display_name\":\"create powertrain\",\"action_type\":\"create\",\"resource_type\":\"Powertrain\",\"role_action_uuid\":\"28f131e5-4a9e-480c-9e9d-f5bf3bfa710d\"},{\"action_uuid\":\"ee5590bf-b6d3-4938-9430-03ebb391da0f\",\"name\":\"update powertrain\",\"display_name\":\"update powertrain\",\"action_type\":\"update\",\"resource_type\":\"Powertrain\",\"role_action_uuid\":\"f75c84e9-9c9d-45a8-9025-59064b31d3d5\"},{\"action_uuid\":\"beb10b90-43d9-4117-b139-7305bc4242d9\",\"name\":\"delete powertrain\",\"display_name\":\"delete powertrain\",\"action_type\":\"delete\",\"resource_type\":\"Powertrain\",\"role_action_uuid\":\"0dba0d86-ffb6-4d05-80d5-e35521d04608\"},{\"action_uuid\":\"8cfa16fb-443e-40d5-a935-a4a2cc05d358\",\"name\":\"view export job\",\"display_name\":\"View Export Job\",\"action_type\":\"read\",\"resource_type\":\"Export Job\",\"role_action_uuid\":\"264ee482-8a3b-4098-890b-322ca1f59730\"},{\"action_uuid\":\"c9131efb-3bb0-40e9-9d51-992c3fcf7968\",\"name\":\"update export job\",\"display_name\":\"Update Export Job\",\"action_type\":\"update\",\"resource_type\":\"Export Job\",\"role_action_uuid\":\"e480936e-9288-42d4-8511-ad7bde774bf9\"},{\"action_uuid\":\"fb778768-f232-40b4-ae0e-03402e8ab584\",\"name\":\"sl_api\",\"display_name\":\"View SL API\",\"action_type\":\"read\",\"resource_type\":\"SL API\",\"role_action_uuid\":\"e56a23a8-d8f3-4a3a-8ac0-5d4d25c97043\"},{\"action_uuid\":\"a078f9d9-aca9-433d-9b3e-e9f0b66995a8\",\"name\":\"view energyband\",\"display_name\":\"View energyband\",\"action_type\":\"read\",\"resource_type\":\"Energyband\",\"role_action_uuid\":\"d33ce1ad-c8fd-4d3a-93ac-1d29108cbb8c\"},{\"action_uuid\":\"e9329af5-8eb6-4e0e-8ea4-91295305979c\",\"name\":\"create energyband\",\"display_name\":\"Create energyband\",\"action_type\":\"create\",\"resource_type\":\"Energyband\",\"role_action_uuid\":\"0744521b-24c3-43ee-af72-da857cbafc7e\"},{\"action_uuid\":\"fb1d46fb-5fd5-4161-9169-d0aedce9f141\",\"name\":\"delete energyband\",\"display_name\":\"Delete energyband\",\"action_type\":\"delete\",\"resource_type\":\"Energyband\",\"role_action_uuid\":\"8687d382-9c72-41d3-8ce0-cca504030fc6\"},{\"action_uuid\":\"e4218cea-29ab-4958-92af-dd09336ec46d\",\"name\":\"edit energyband\",\"display_name\":\"Edit energyband\",\"action_type\":\"update\",\"resource_type\":\"Energyband\",\"role_action_uuid\":\"a39a97b1-a36f-4918-b8e6-b9af0c35921c\"},{\"action_uuid\":\"d2c1cb42-f985-445d-aac4-188a85e15404\",\"name\":\"view scripts\",\"display_name\":\"View User Scripts\",\"action_type\":\"read\",\"resource_type\":\"UserScript\",\"role_action_uuid\":\"9e1e7169-ff4b-4556-969e-a24fba758a85\"},{\"action_uuid\":\"2c877915-ea09-4f0a-bdcf-331f05062d29\",\"name\":\"create scripts\",\"display_name\":\"Create User Scripts\",\"action_type\":\"create\",\"resource_type\":\"UserScript\",\"role_action_uuid\":\"791db73c-f5f5-4fc8-b418-169a8d5186cc\"},{\"action_uuid\":\"6f58f7a2-79c5-422c-afa5-a80fa3909e56\",\"name\":\"delete scripts\",\"display_name\":\"Delete User Scripts\",\"action_type\":\"delete\",\"resource_type\":\"UserScript\",\"role_action_uuid\":\"44f255d0-c835-4f3b-8920-12acb21288c4\"},{\"action_uuid\":\"e705f5d9-7047-42a5-9182-acce0e672f28\",\"name\":\"create powertrain document\",\"display_name\":\"Upload Powertrain Document\",\"action_type\":\"create\",\"resource_type\":\"PowertrainDocument\",\"role_action_uuid\":\"8ff7474b-c07b-450e-ad72-732d226c5d3d\"},{\"action_uuid\":\"e0fed043-b428-4a6a-b634-04578bc3aee4\",\"name\":\"view powertrain document\",\"display_name\":\"View Powertrain Documents\",\"action_type\":\"read\",\"resource_type\":\"PowertrainDocument\",\"role_action_uuid\":\"73e7fa94-fd19-4ab0-9e26-d93f16b63a44\"},{\"action_uuid\":\"6c7508bc-2e31-456c-925a-c2ee4f941eb0\",\"name\":\"edit powertrain document\",\"display_name\":\"Edit Powertrain Document\",\"action_type\":\"update\",\"resource_type\":\"PowertrainDocument\",\"role_action_uuid\":\"ae374935-cd39-41de-8a63-a77d4cbc7758\"},{\"action_uuid\":\"3298a2d8-e89e-4b68-9d7d-dc833e78db90\",\"name\":\"delete powertrain document\",\"display_name\":\"Delete Powertrain Document\",\"action_type\":\"delete\",\"resource_type\":\"PowertrainDocument\",\"role_action_uuid\":\"5a757a5e-83e6-4bcf-b8da-39b62f968e0d\"},{\"action_uuid\":\"4769481d-3329-4efc-8d1c-92b03114065a\",\"name\":\"create component document\",\"display_name\":\"Upload Component Document\",\"action_type\":\"create\",\"resource_type\":\"ComponentDocument\",\"role_action_uuid\":\"1857434d-9a43-412d-810c-f26fda369e8c\"},{\"action_uuid\":\"adf84708-548b-40c6-a8ce-04e4ccdd03a5\",\"name\":\"view component document\",\"display_name\":\"View Component Documents\",\"action_type\":\"read\",\"resource_type\":\"ComponentDocument\",\"role_action_uuid\":\"8585e705-e870-4d00-b5f4-8d980c2b4ad4\"},{\"action_uuid\":\"e07f686e-28f1-483c-8c7c-4ef47be85051\",\"name\":\"edit component document\",\"display_name\":\"Edit Component Document\",\"action_type\":\"update\",\"resource_type\":\"ComponentDocument\",\"role_action_uuid\":\"e47246bf-91e0-4e04-8d55-1fe773f0a2f3\"},{\"action_uuid\":\"a39b5b04-ab8e-4123-8db3-deaddc935405\",\"name\":\"delete component document\",\"display_name\":\"Delete Component Document\",\"action_type\":\"delete\",\"resource_type\":\"ComponentDocument\",\"role_action_uuid\":\"072aaf8a-ab57-46b3-b971-7594728cdf58\"},{\"action_uuid\":\"ed7856ed-9be1-4230-91cd-2229039d35ed\",\"name\":\"view tags\",\"display_name\":\"View Tags\",\"action_type\":\"read\",\"resource_type\":\"Tags\",\"role_action_uuid\":\"5018df6a-673d-45c7-873a-b083707c601c\"},{\"action_uuid\":\"58c9e522-60f0-4e74-82f1-2f214393f3d1\",\"name\":\"create tag\",\"display_name\":\"Create New Tag\",\"action_type\":\"create\",\"resource_type\":\"Tags\",\"role_action_uuid\":\"0e05f532-16d2-46b3-ba08-72d319e22c53\"},{\"action_uuid\":\"5c7cd1b3-6b8d-4503-816d-16c08ab3754b\",\"name\":\"view hide exclude rule\",\"display_name\":\"View Hide Exclude Rule\",\"action_type\":\"read\",\"resource_type\":\"HideExcludeRule\",\"role_action_uuid\":\"16d7a490-7cdd-42b6-a956-e68b905cfbb6\"},{\"action_uuid\":\"646f1373-ab56-426f-a704-ab136eefd970\",\"name\":\"create hide exclude rule\",\"display_name\":\"Create Hide Exclude Rule\",\"action_type\":\"create\",\"resource_type\":\"HideExcludeRule\",\"role_action_uuid\":\"4ac9e67c-4fb7-4634-abf0-3cd0890f377b\"},{\"action_uuid\":\"496d8bc9-6950-4cd9-8876-85af6010aad8\",\"name\":\"delete hide exclude rule\",\"display_name\":\"Delete Hide Exclude Rule\",\"action_type\":\"delete\",\"resource_type\":\"HideExcludeRule\",\"role_action_uuid\":\"b7e94aa4-b3b3-4665-a185-4cc5309d689e\"},{\"action_uuid\":\"a720f2b2-d433-476e-b65f-9a00041c05a4\",\"name\":\"edit hide exclude rule\",\"display_name\":\"Edit Hide Exclude Rule\",\"action_type\":\"update\",\"resource_type\":\"HideExcludeRule\",\"role_action_uuid\":\"07808828-8dce-4cca-9784-cc9ba6691980\"},{\"action_uuid\":\"5375aca5-2e25-4125-a22e-b53e515dc9f5\",\"name\":\"view trend analysis\",\"display_name\":\"View Trend Analysis\",\"action_type\":\"read\",\"resource_type\":\"Trend Analysis\",\"role_action_uuid\":\"eceadcf2-b43e-4527-823d-12b36b17fee6\"}],\"language\":\"en\"}}"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.76cleouqlscv0i55vic6gsve13.LastAuthUser",
+          "value": "google_107174296564305794668"
+        },
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "cmmvtiru800002v6mpwtz9fj1"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.76cleouqlscv0i55vic6gsve13.google_107174296564305794668.accessToken",
+          "value": "eyJraWQiOiIxSHZGZnFOT0FKZG9vbUozRmx0ZjVUOHh3aHMza3BNT3dSU0R1UVJwSERZPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1OWE0ZjQ0NC1lMzNkLTRkZGUtODM1ZC0wOGVkYWRkMmUyMjUiLCJjb2duaXRvOmdyb3VwcyI6WyJ1cy1lYXN0LTFfNEd6cm1NNW9UX0dvb2dsZSJdLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtZWFzdC0xLmFtYXpvbmF3cy5jb21cL3VzLWVhc3QtMV80R3pybU01b1QiLCJ2ZXJzaW9uIjoyLCJjbGllbnRfaWQiOiI3NmNsZW91cWxzY3YwaTU1dmljNmdzdmUxMyIsIm9yaWdpbl9qdGkiOiJhNjI2YTNmOS0zM2IzLTRkMWMtOGM2Yy1jOWRlNmVlY2RmODgiLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6ImF3cy5jb2duaXRvLnNpZ25pbi51c2VyLmFkbWluIG9wZW5pZCBwcm9maWxlIGVtYWlsIiwiYXV0aF90aW1lIjoxNzczODI0ODk5LCJleHAiOjE3NzM4MjU0OTksImlhdCI6MTc3MzgyNDg5OSwianRpIjoiMGVlNjE3Y2MtOGNiMC00MGM0LWFkMGQtYjJhZTNmMDkxMTIzIiwidXNlcm5hbWUiOiJnb29nbGVfMTA3MTc0Mjk2NTY0MzA1Nzk0NjY4In0.kVi7JqCeYy8wS1TFFDC4A10yoYuQcKvCR0stwADUqu3N0v-_yjfv8iRY4znC2KdSaxq823xSevzJK34004l7OfdKmQGR8YpfL_7XdIq4rREj5o_o5o0ZxZSTHlM-1wkPwehoDvNA_IafQfE_oSEdinyvtWjiKfAooxjWlrAKoa4hRs9OOssVRr3BlrlWLdmqooaDneS_G6Wwovtz7OGN4xVL0NdT-496rRUr5Q-zSBp9z1CIKv26u4paQf8E6kIKLlsk2FvrGWiMAwXm3Df8DBjQGj_cSDdsk_63u1o5usAe3LDUrAbXEBNTMRFBWUuu3aE9G5n158HS_j3Rn4o6Pg"
+        }
+      ]
+    }
+  ]
+}

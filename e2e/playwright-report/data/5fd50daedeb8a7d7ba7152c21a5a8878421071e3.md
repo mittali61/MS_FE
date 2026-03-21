@@ -1,0 +1,197 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - link "Shoreline" [ref=e9] [cursor=pointer]:
+          - /url: /webm06kbu/app/
+          - img "Shoreline" [ref=e10]
+        - generic [ref=e11]:
+          - textbox "search" [ref=e14]:
+            - /placeholder: Search (or press '/')
+          - button [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+        - generic [ref=e18]:
+          - button "Help" [ref=e19] [cursor=pointer]:
+            - paragraph [ref=e20]: Help
+          - button "1 new notification" [ref=e21] [cursor=pointer]:
+            - generic "1 unread notifications" [ref=e22]:
+              - img [ref=e24]
+              - generic [ref=e27]: "1"
+          - button "Mittali M" [ref=e28] [cursor=pointer]:
+            - paragraph [ref=e29]: Mittali
+            - generic [ref=e30]: M
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - button "Web Automation" [ref=e37] [cursor=pointer]:
+              - heading "Web Automation" [level=6] [ref=e39]
+              - img [ref=e40]
+            - generic [ref=e42]:
+              - heading "Role:Super Admin" [level=6] [ref=e43]
+              - generic [ref=e45]:
+                - combobox [ref=e46] [cursor=pointer]
+                - textbox
+                - img
+                - group
+          - list [ref=e47]:
+            - button "Dashboard" [ref=e48] [cursor=pointer]:
+              - img [ref=e50]
+              - generic [ref=e66]: Dashboard
+              - img [ref=e67]
+            - generic [ref=e72]:
+              - link "• Automation Dashboard - 1774106262665" [ref=e73] [cursor=pointer]:
+                - /url: /webm06kbu/app/custom-dashboard/1a45cd61-1086-482a-945e-22e214ca64f9
+                - button "• Automation Dashboard - 1774106262665" [ref=e74]:
+                  - generic [ref=e76]:
+                    - heading "•" [level=2] [ref=e78]
+                    - generic [ref=e79]: Automation Dashboard - 1774106262665
+              - link "• Automation Dashboard - 1774106691682" [ref=e80] [cursor=pointer]:
+                - /url: /webm06kbu/app/custom-dashboard/6086167b-5514-424b-a3de-dc06416205a6
+                - button "• Automation Dashboard - 1774106691682" [ref=e81]:
+                  - generic [ref=e83]:
+                    - heading "•" [level=2] [ref=e85]
+                    - generic [ref=e86]: Automation Dashboard - 1774106691682
+              - link "• Machine Health Dashboard" [ref=e87] [cursor=pointer]:
+                - /url: /webm06kbu/app/custom-dashboard/edc5f75a-3e99-4263-9317-3beed7015552
+                - button "• Machine Health Dashboard" [ref=e88]:
+                  - generic [ref=e90]:
+                    - heading "•" [level=2] [ref=e92]
+                    - generic [ref=e93]: Machine Health Dashboard
+              - link "• View All" [ref=e94] [cursor=pointer]:
+                - /url: /webm06kbu/app/custom-dashboard/list
+                - button "• View All" [active] [ref=e95]:
+                  - generic [ref=e97]:
+                    - heading "•" [level=2] [ref=e99]
+                    - generic [ref=e100]: View All
+              - link "Add Dashboard" [ref=e101] [cursor=pointer]:
+                - /url: /webm06kbu/app/custom-dashboard/fee6020f-5fb6-48ba-af06-d8c524ce3a1b-new
+                - button "Add Dashboard" [ref=e102]:
+                  - generic [ref=e104]:
+                    - heading [level=2] [ref=e106]:
+                      - img [ref=e107]
+                    - generic [ref=e109]: Add Dashboard
+            - button "Alarms" [ref=e110] [cursor=pointer]:
+              - img [ref=e112]
+              - generic [ref=e117]: Alarms
+              - img [ref=e118]
+            - link "Powertrains" [ref=e120] [cursor=pointer]:
+              - /url: /webm06kbu/app/new-asset-dashboard
+              - img [ref=e122]
+              - generic [ref=e135]: Powertrains
+            - link "Workflow" [ref=e136] [cursor=pointer]:
+              - /url: /webm06kbu/app/workflow
+              - img [ref=e138]
+              - generic [ref=e163]: Workflow
+            - button "Org Settings" [ref=e164] [cursor=pointer]:
+              - img [ref=e166]
+              - generic [ref=e220]: Org Settings
+              - img [ref=e221]
+            - link "Activity Logs" [ref=e223] [cursor=pointer]:
+              - /url: /webm06kbu/app/activity-logs
+              - img [ref=e225]
+              - generic [ref=e234]: Activity Logs
+            - button "Reports" [ref=e235] [cursor=pointer]:
+              - img [ref=e237]
+              - generic [ref=e241]: Reports
+              - img [ref=e242]
+            - link "Firmware" [ref=e244] [cursor=pointer]:
+              - /url: /webm06kbu/app/firmware
+              - img [ref=e246]
+              - generic [ref=e255]: Firmware
+            - button "Templates" [ref=e256] [cursor=pointer]:
+              - img [ref=e258]
+              - generic [ref=e310]: Templates
+              - img [ref=e311]
+            - button "Support" [ref=e313] [cursor=pointer]:
+              - img [ref=e315]
+              - generic [ref=e322]: Support
+              - img [ref=e323]
+          - heading "Powered by Shoreline" [level=6] [ref=e326]
+        - button [ref=e327] [cursor=pointer]:
+          - img [ref=e328]
+      - generic [ref=e330]:
+        - generic [ref=e331]:
+          - generic [ref=e337]: Dashboard
+          - button "Add Dashboard" [ref=e340] [cursor=pointer]
+        - generic [ref=e341]:
+          - generic [ref=e343]:
+            - generic [ref=e346]: Note - Assign dashboard access to users, and select your favorite dashboard here
+            - button "Show/Hide columns" [ref=e349] [cursor=pointer]:
+              - img [ref=e350]
+          - table [ref=e353]:
+            - rowgroup [ref=e354]:
+              - row "Name Sort by Name ascending Column Actions Assigned To Sort by Assigned To ascending Column Actions Actions Sort by Actions ascending Column Actions" [ref=e355]:
+                - columnheader "Name Sort by Name ascending Column Actions" [ref=e356]:
+                  - generic [ref=e357]:
+                    - generic [ref=e358] [cursor=pointer]:
+                      - generic [ref=e359]: Name
+                      - generic "Sort by Name ascending" [ref=e360]:
+                        - button "Sort by Name ascending" [ref=e361]:
+                          - img [ref=e362]
+                        - generic: "0"
+                    - button "Column Actions" [ref=e365] [cursor=pointer]:
+                      - img [ref=e366]
+                    - separator [ref=e369]
+                - columnheader "Assigned To Sort by Assigned To ascending Column Actions" [ref=e370]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372] [cursor=pointer]:
+                      - generic [ref=e373]: Assigned To
+                      - generic "Sort by Assigned To ascending" [ref=e374]:
+                        - button "Sort by Assigned To ascending" [ref=e375]:
+                          - img [ref=e376]
+                        - generic: "0"
+                    - button "Column Actions" [ref=e379] [cursor=pointer]:
+                      - img [ref=e380]
+                    - separator [ref=e383]
+                - columnheader "Actions Sort by Actions ascending Column Actions" [ref=e384]:
+                  - generic [ref=e385]:
+                    - generic [ref=e386] [cursor=pointer]:
+                      - generic [ref=e387]: Actions
+                      - generic "Sort by Actions ascending" [ref=e388]:
+                        - button "Sort by Actions ascending" [ref=e389]:
+                          - img [ref=e390]
+                        - generic: "0"
+                    - button "Column Actions" [ref=e393] [cursor=pointer]:
+                      - img [ref=e394]
+            - rowgroup [ref=e396]:
+              - row "Automation Dashboard - 1774106262665 Super Admin, Admin, User, Site Manager default edit delete" [ref=e397]:
+                - cell "Automation Dashboard - 1774106262665" [ref=e398] [cursor=pointer]
+                - cell "Super Admin, Admin, User, Site Manager" [ref=e399] [cursor=pointer]
+                - cell "default edit delete" [ref=e400]:
+                  - generic [ref=e401]:
+                    - button "default" [ref=e404] [cursor=pointer]:
+                      - img [ref=e405]
+                    - button "edit" [ref=e415] [cursor=pointer]:
+                      - img [ref=e416]
+                    - generic [ref=e422]:
+                      - button "delete" [disabled]:
+                        - img
+              - row "Automation Dashboard - 1774106691682 Super Admin, Admin, User, Site Manager default edit delete" [ref=e423]:
+                - cell "Automation Dashboard - 1774106691682" [ref=e424] [cursor=pointer]
+                - cell "Super Admin, Admin, User, Site Manager" [ref=e425] [cursor=pointer]
+                - cell "default edit delete" [ref=e426]:
+                  - generic [ref=e427]:
+                    - button "default" [ref=e430] [cursor=pointer]:
+                      - img [ref=e431]
+                    - button "edit" [ref=e434] [cursor=pointer]:
+                      - img [ref=e435]
+                    - button "delete" [ref=e442] [cursor=pointer]:
+                      - img [ref=e443]
+              - row "Machine Health Dashboard Super Admin, Admin, User, Site Manager default edit delete" [ref=e451]:
+                - cell "Machine Health Dashboard" [ref=e452] [cursor=pointer]
+                - cell "Super Admin, Admin, User, Site Manager" [ref=e453] [cursor=pointer]
+                - cell "default edit delete" [ref=e454]:
+                  - generic [ref=e455]:
+                    - button "default" [ref=e458] [cursor=pointer]:
+                      - img [ref=e459]
+                    - button "edit" [ref=e462] [cursor=pointer]:
+                      - img [ref=e463]
+                    - button "delete" [ref=e470] [cursor=pointer]:
+                      - img [ref=e471]
+  - button "annotate" [ref=e479] [cursor=pointer]:
+    - img [ref=e480]
+```
